@@ -1,3 +1,9 @@
+### Hey，我是神奇的程序员 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+
+<br />
+
+  <img align="right" alt="GIF" src="https://cdn.jsdelivr.net/gh/fqcto/images/blogs/picture/code.gif" width="430" height="100%" />
+
 - 💬 如果你对我感兴趣，可以加我微信：[a928649522]() 进一步交流。
 - 📫 我的邮箱: [928649522@qq.com](mailto:928649522@qq.com);
 - 📝 [我的掘金主页](https://juejin.cn/user/1996368846533672)
